@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "김정윤"
   avatar           : "student of Korea" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "HAFS16 Humanities."
+  bio              : "HAFS16 Humanities"
   location         : "대한민국, 서울"
   email            : "kjeongyoon0206@gmail.com"
   links:
